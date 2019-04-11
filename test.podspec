@@ -15,8 +15,8 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "ComponentTest"
-  s.version      = "0.0.6"
+  s.name         = "LFComponentTest"
+  s.version      = "0.0.7"
   s.summary      = "A short description of test."
 
   # This description is used to generate tags and improve search results.
